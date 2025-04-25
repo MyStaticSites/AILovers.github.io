@@ -31,8 +31,8 @@ const options = {
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://ailovers.github.io',
-	base: 'ailoverse.github.io',
+	site: 'https://mystaticsites.github.io',
+	base: 'AILovers.github.io',
 	markdown: {
 		syntaxHighlight: false,
 		// Disable syntax built-in syntax hightlighting from astro
